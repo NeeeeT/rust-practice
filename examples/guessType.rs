@@ -3,4 +3,5 @@ fn main() {
   // let guess = "42".parse().expect("Not a number");
   let guess: f32 = "42".parse().expect("Not a number");
   println!("{}", guess);
+  println!("hello!");
 }
